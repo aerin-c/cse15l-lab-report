@@ -25,7 +25,7 @@ horizontal
 
  `inline`
  
- ``` wow it's a block
-     spaces
-     backticks
+ ``` 
+ wow it's a block
+ with line breaks
 ```
