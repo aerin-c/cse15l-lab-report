@@ -26,4 +26,4 @@ This lab report is meant to help with breaking down the process to complete thre
 3. If it asks you if you wish to connect to the server, you should select the yes option.
 
 ## Running Commands in Terminal
-
+1.
