@@ -19,7 +19,7 @@ This lab report is meant to help with breaking down the process to complete thre
 
 ![Image](https://raw.githubusercontent.com/aerin-c/cse15l-lab-report/main/lab1images/lab%201%20-%20mac%20terminal.png)
 
-2. Open VScode's terminal by using the Ctrl (Windows) or control (Apple) along with the backtick key (\`). Then, sign in using cse15lwi23(your special letters)@ieng6.ucsd.edu and your AD password. You will need to reset the password in order to sign into the new account. You can [follow the steps on the UCSD Educational Technology Services page](https://sdacs.ucsd.edu/~icc/index.php), starting with account lookup and then changing the password as instructed. Note: while inputting your password, it records your keystrokes but the bar will not move to show you how many characters you have already typed. Once you finish typing your password, you should hit the Enter (Windows) or return (Mac) key.
+2. Open VScode's terminal by using the Ctrl (Windows) or control (Apple) along with the backtick key (\`). Then, sign in using **cse15lwi23(your special letters)@ieng6.ucsd.edu and your AD password**. You will need to reset the password in order to sign into the new account. You can [follow the steps on the UCSD Educational Technology Services page](https://sdacs.ucsd.edu/~icc/index.php), starting with account lookup and then changing the password as instructed. Note: while inputting your password, it records your keystrokes but the bar will not move to show you how many characters you have already typed. Once you finish typing your password, you should hit the Enter (Windows) or return (Mac) key.
 
 ![Image](https://raw.githubusercontent.com/aerin-c/cse15l-lab-report/main/lab1images/lab%201%20-%20ssh%20login.png)
 
