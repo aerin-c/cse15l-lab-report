@@ -26,4 +26,5 @@ This lab report is meant to help with breaking down the process to complete thre
 * If it asks you if you wish to connect to the server, you should select the yes option.
 
 ## Running Commands in Terminal
-*
+* The commands can be run in the VScode terminal while logged into the ieng account or logged out. While still logged into the ieng account, you can try out all the commands listed such as `cd`, `ls`, `pwd`, `mkdir`, and `cp`. More specific variations such as `cd ~`; `cd`; `ls -lat`; `ls -a`; `ls <directory>` where <directory> is /home/linux/ieng6/cs15lwi23/cs15lwi23abc, where the abc is one of the other group members’ username;
+`cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/`; `cat /home/linux/ieng6/cs15lwi23/public/hello.txt`
