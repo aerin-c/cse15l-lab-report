@@ -2,7 +2,7 @@
 This lab report is meant to help with breaking down the process to complete three aspects of the lab which are as follows: **installation of VScode**, **remotely connecting to the server**, and **using some commands in the terminal**.
 
 ## Installing VScode
-1. Start by going to the VScode official website[VScode official website](https://code.visualstudio.com/). Follow the instructions on the site to install.
+1. Start by going to the [VScode official website](https://code.visualstudio.com/). Follow the instructions on the site to install.
 ![Image](https://raw.githubusercontent.com/aerin-c/cse15l-lab-report/main/lab1images/lab%201%20-%20%20vscode%20landing.png)
 
 2. When opened, VScode should look something similar to the image below.
