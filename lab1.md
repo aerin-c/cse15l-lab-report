@@ -3,3 +3,4 @@ This lab report is meant to help with breaking down the process to complete thre
 
 ## Installing VScode
 1. Start by going to the website https://code.visualstudio.com/ and following the instructions on the site to install. You should see a screen similar to what is shown below but the device type itself may be different.
+![Image](https://raw.githubusercontent.com/aerin-c/cse15l-lab-report/main/lab1images/lab%201%20-%20%20vscode%20landing.png)
