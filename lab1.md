@@ -15,4 +15,10 @@ This lab report is meant to help with breaking down the process to complete thre
 1. [Download git](https://git-scm.com/downloads) if you do not already have it from the developer's site. You can check if you have git by using the built in terminal on your computer. You can use the search option to look for your terminal on your device. You shell may not be in bash to start so type in `bash` to change the type to bash if it's set to something else. Then type in `git --version`. If you do not get a version back, then you do not have git installed.
 ![Image](https://github.com/aerin-c/cse15l-lab-report/blob/main/lab1images/lab%201%20-%20mac%20terminal.png)
 
-2. Open VScode's terminal by using the Ctrl (Windows) or control (Apple) along with the backtick key (\`). 
+2. Open VScode's terminal by using the Ctrl (Windows) or control (Apple) along with the backtick key (\`). Then, sign in using cse15lwi23(your special letters)@ieng6.ucsd.edu and your AD password. You will need to reset the password in order to sign into the new account. You can [follow the steps on the UCSD Educational Technology Services page](https://sdacs.ucsd.edu/~icc/index.php), starting with account lookup and then changing the password as instructed. Note: while inputting your password, it records your keystrokes but the bar will not move to show you how many characters you have already typed. Once you finish typing your password, you should hit the Enter (Windows) or return (Mac) key.
+![Image](https://raw.githubusercontent.com/aerin-c/cse15l-lab-report/main/lab1images/lab%201%20-%20ssh%20login.png)
+
+3. If it asks you if you wish to connect to the server, you should select the yes option.
+
+## Running Commands in Terminal
+
