@@ -28,3 +28,9 @@ This lab report is meant to help with breaking down the process to complete thre
 ## Running Commands in Terminal
 * The commands can be run in the VScode terminal while logged into the ieng account or logged out. While still logged into the ieng account, you can try out all the commands listed such as `cd`, `ls`, `pwd`, `mkdir`, and `cp`. More specific variations from the lab instructions include `cd ~`; `cd`; `ls -lat`; `ls -a`; `ls /home/linux/ieng6/cs15lwi23/cs15lwi23abc`, replacing abc with a different string of letters such as a group members’ username;
 `cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/`; `cat /home/linux/ieng6/cs15lwi23/public/hello.txt`.
+
+![Image](https://raw.githubusercontent.com/aerin-c/cse15l-lab-report/main/lab1images/lab%201%20-%20not%20mac.png)
+
+* To run the commands for your device and not the remote access account, you can hit Ctrl (Windows) or control (Mac) and D in order to sign out. From there you can run the same commands and see what comes up. 
+
+![Image](https://raw.githubusercontent.com/aerin-c/cse15l-lab-report/main/lab1images/lab%201%20-%20mac.png)
